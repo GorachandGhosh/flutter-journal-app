@@ -46,8 +46,8 @@ To run this project:
 
 ## ▶️ How to Run the Project
 
-flutter pub get
-flutter run
+* flutter pub get
+* flutter run
 
 ## 👨‍💻 Author
 
